@@ -1,0 +1,18 @@
+FONTLOG for CARBON
+==================
+
+Version 1.0
+Release Date: 2026
+
+Designer: Shahabas M
+
+Font Family:
+- Carbon Regular
+- Carbon Bold
+- Carbon Italic
+
+Initial Release:
+- Initial CARBON font family release.
+- Added Regular, Bold and Italic styles.
+- Added font metadata.
+- Licensed under SIL Open Font License 1.1.
